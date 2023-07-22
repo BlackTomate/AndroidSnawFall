@@ -1,0 +1,21 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+
+android {
+  compileSdkVersion versions.compileSdk
+  buildToolsVersion versions.buildTools
+
+  defaultConfig {
+    applicationId "com.jetradarmobile.snowfall.sample"
+    minSdkVersion versions.minSdk
+    targetSdkVersion versions.targetSdk
+    versionCode 1
+    versionName "1.0"
+  }
+}
+
+dependencies {
+  implementation project(':snowfall')
+  implementation "org.jetbrains.kotlin:kotlin-stdlib:$versions.kotlin"
+  implementation "androidx.appcompat:appcompat:$versions.appCompat"
+}
