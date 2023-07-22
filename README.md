@@ -1,7 +1,6 @@
 Android-Snowfall
 ================
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--Snowfall-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/4952)
 [![Release](https://jitpack.io/v/jetradarmobile/android-snowfall.svg)](https://jitpack.io/#jetradarmobile/android-snowfall)
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
 [![AndroidWeekly](https://img.shields.io/badge/Android%20Weekly-%23238-blue.svg?style=flat)](http://androidweekly.net/issues/issue-238)
