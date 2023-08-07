@@ -1,2 +1,3 @@
 include ':snowfall'
 include ':snowfall-sample'
+include ':snowfall-vision'
