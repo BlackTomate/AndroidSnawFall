@@ -6,12 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		EA8A69162A681A20007D77A5 /* animatingGesturesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8A69152A681A20007D77A5 /* animatingGesturesApp.swift */; };
-		EA8A69182A681A20007D77A5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8A69172A681A20007D77A5 /* ContentView.swift */; };
-		EA8A691A2A681A21007D77A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA8A69192A681A21007D77A5 /* Assets.xcassets */; };
-		EA8A691D2A681A21007D77A5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA8A691C2A681A21007D77A5 /* Preview Assets.xcassets */; };
-/* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		EA8A69122A681A20007D77A5 /* animatingGestures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animatingGestures.app; sourceTree = BUILT_PRODUCTS_DIR; };
